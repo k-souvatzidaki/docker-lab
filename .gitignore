@@ -1,0 +1,5 @@
+demo_project/demo_app/__pycache__
+demo_project/demo_app/migrations
+demo_project/demo_project/__pycache__
+demo_project/db.sqlite3
+venv
